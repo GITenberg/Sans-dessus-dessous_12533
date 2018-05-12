@@ -1,5 +1,8 @@
 _repo: Sans-dessus-dessous_12533
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Verne, Jules
@@ -16,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Verne
     - http://pt.wikipedia.org/wiki/Júlio_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12533#Sans-dessus-dessous
 gutenberg_bookshelf:
 - FR Science fiction
 - FR Littérature
